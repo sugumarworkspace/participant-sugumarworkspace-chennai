@@ -1,3 +1,4 @@
+"""
 UC-X app.py — Ask My Documents.
 Build this using the RICE + agents.md + skills.md + CRAFT workflow.
 """
